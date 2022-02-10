@@ -1,2 +1,1 @@
-# cpp-Kodlari
-C++ Örnek Kodlar
+Burda amacım kendi yaptığım kodları burda saklamak, neler yapmışım diye bakmak ve c++ 'a çalışırken örnek kodlarla daha rahat çalışıldığı için buraya yükledim.
