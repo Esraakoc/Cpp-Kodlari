@@ -1,0 +1,2 @@
+1.kelime
+2.kelime  3.kelime
